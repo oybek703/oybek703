@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Oybek Yoriqulov
 - 👀 I’m interested in web development and penetration testing
-- 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on fullstack web projects
 - 📫 How to reach me email: hhoybek@gmail.com
 
