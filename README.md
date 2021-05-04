@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Oybek
-- 👀 I’m interested in web development and penetration testing
+- 👀 I’m interested in web development and ethical hacking
 - 💞️ Looking to collaborate on fullstack web projects
 - 📫 How to reach me email: hhoybek@gmail.com
 
